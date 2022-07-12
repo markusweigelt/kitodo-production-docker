@@ -1,3 +1,6 @@
 site_name: Kitodo Production Docker
 
 docs_dir: ./kitodo
+
+nav:
+  - README: 'README.md'
