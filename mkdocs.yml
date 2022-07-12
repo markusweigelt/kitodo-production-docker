@@ -1,12 +1,6 @@
 site_name: Kitodo Production Docker
 
-theme:
-  name: material
-  features:
-    - navigation.tabs
-    - navigation.top
-    - navigation.tracking
-    - toc.follow
-  palette:
-    primary: white
-    accent: blue
+docs_dir: ./kitodo
+
+nav:
+  - Home: 'README.md'
